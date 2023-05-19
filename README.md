@@ -1,3 +1,3 @@
 # Hello im a newbie
 
-<iframe src="https://profile.yopaaa.site" width="600" height="400"></iframe>
+[![Title](https://profile.yopaaa.site)](https://profile.yopaaa.site)
